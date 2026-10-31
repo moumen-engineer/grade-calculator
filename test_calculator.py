@@ -1,3 +1,4 @@
+
 import pytest
 from calculator import calculate_average, is_passing, get_grade_category
 
