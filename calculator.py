@@ -1,6 +1,4 @@
 
-
-
 def calculate_average(grades):
     if not grades:
         raise ValueError("The grades list cannot be empty")
